@@ -1,5 +1,5 @@
 {
-  "name": "uikit",
+  "name": "@lyufudi/uikit-v2",
   "title": "UIkit",
   "description": "UIkit is a lightweight and modular front-end framework for developing fast and powerful web interfaces.",
   "version": "2.27.5",
@@ -31,7 +31,7 @@
     "gulp-concat": "^2.3.4",
     "gulp-header": "1.0.5",
     "gulp-ignore": "^1.2.0",
-    "gulp-less": "latest",
+    "gulp-less": "3.5.0",
     "gulp-minify-css": "^1.1.1",
     "gulp-rename": "^1.2.0",
     "gulp-replace": "^0.4.0",
